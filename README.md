@@ -13,6 +13,9 @@ gcc projeto.c -o projeto.exe
 projeto.exe
 ```
 
+![veiculos1](https://github.com/user-attachments/assets/808d5a61-20c1-4924-8377-5d2d5c632048)
+
+
 ## Funcionalidades
 
 ### Listar veículos cadastrados
@@ -52,6 +55,9 @@ Status: Em estoque
 -------------------
 ```
 
+![veicullos2](https://github.com/user-attachments/assets/1c63385d-acbc-4951-827e-d2abc7154f35)
+
+
 ### Cadastrar veículos
 
 O sistema permite o cadastro de novos veículo, no qual pede ao usuário que informe os dados do veículo e em seguida adiciona ao arquivo .txt os dados do novo veículo.
@@ -59,3 +65,5 @@ O sistema permite o cadastro de novos veículo, no qual pede ao usuário que inf
 ### Buscar veículos
 
 O sistema nos permite buscar veículos pelo nome do modelo. Também é utilizada uma FILA para implementar o resultado da busca.
+
+![veiculos3](https://github.com/user-attachments/assets/a00370ce-8251-4949-8579-4100ec0abcaf)
