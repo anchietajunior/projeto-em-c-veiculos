@@ -62,6 +62,9 @@ Status: Em estoque
 
 O sistema permite o cadastro de novos veículo, no qual pede ao usuário que informe os dados do veículo e em seguida adiciona ao arquivo .txt os dados do novo veículo.
 
+![ok](https://github.com/user-attachments/assets/e1d40d4b-3748-4e72-9cd1-6016e9e11bb2)
+
+
 ### Buscar veículos
 
 O sistema nos permite buscar veículos pelo nome do modelo. Também é utilizada uma FILA para implementar o resultado da busca.
